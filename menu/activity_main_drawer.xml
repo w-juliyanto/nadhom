@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Import" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Slideshow" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Tools" />
+    </group-->
+
+    <item android:title="Bab">
+        <menu>
+            <item
+                android:id="@+id/bab_1"
+                android:title="@string/ar_im_1" />
+            <item
+                android:id="@+id/bab_2"
+                android:title="@string/ar_im_2" />
+            <item
+                android:id="@+id/bab_3"
+                android:title="@string/ar_im_3" />
+            <item
+                android:id="@+id/bab_4"
+                android:title="@string/ar_im_4" />
+            <item
+                android:id="@+id/bab_5"
+                android:title="@string/ar_im_5" />
+            <item
+                android:id="@+id/bab_6"
+                android:title="@string/ar_im_6" />
+            <item
+                android:id="@+id/bab_7"
+                android:title="@string/ar_im_7" />
+            <item
+                android:id="@+id/bab_8"
+                android:title="@string/ar_im_8" />
+            <item
+                android:id="@+id/bab_9"
+                android:title="@string/ar_im_9" />
+            <item
+                android:id="@+id/bab_10"
+                android:title="@string/ar_im_10" />
+            <item
+                android:id="@+id/bab_11"
+                android:title="@string/ar_im_11" />
+            <item
+                android:id="@+id/bab_12"
+                android:title="@string/ar_im_12" />
+            <item
+                android:id="@+id/bab_13"
+                android:title="@string/ar_im_13" />
+            <item
+                android:id="@+id/bab_14"
+                android:title="@string/ar_im_14" />
+            <item
+                android:id="@+id/bab_15"
+                android:title="@string/ar_im_15" />
+            <item
+                android:id="@+id/bab_16"
+                android:title="@string/ar_im_16" />
+            <item
+                android:id="@+id/bab_17"
+                android:title="@string/ar_im_17" />
+            <item
+                android:id="@+id/bab_18"
+                android:title="@string/ar_im_18" />
+            <item
+                android:id="@+id/bab_19"
+                android:title="@string/ar_im_19" />
+            <item
+                android:id="@+id/bab_20"
+                android:title="@string/ar_im_20" />
+            <item
+                android:id="@+id/bab_21"
+                android:title="@string/ar_im_21" />
+            <item
+                android:id="@+id/bab_22"
+                android:title="@string/ar_im_22" />
+            <item
+                android:id="@+id/bab_23"
+                android:title="@string/ar_im_23" />
+            <item
+                android:id="@+id/bab_24"
+                android:title="@string/ar_im_24" />
+            <item
+                android:id="@+id/bab_25"
+                android:title="@string/ar_im_25" />
+            <item
+                android:id="@+id/bab_26"
+                android:title="@string/ar_im_26" />
+            <item
+                android:id="@+id/bab_27"
+                android:title="@string/ar_im_27" />
+            <item
+                android:id="@+id/bab_28"
+                android:title="@string/ar_im_28" />
+            <item
+                android:id="@+id/bab_29"
+                android:title="@string/ar_im_29" />
+            <item
+                android:id="@+id/bab_30"
+                android:title="@string/ar_im_30" />
+            <item
+                android:id="@+id/bab_31"
+                android:title="@string/ar_im_31" />
+            <item
+                android:id="@+id/bab_32"
+                android:title="@string/ar_im_32" />
+            <item
+                android:id="@+id/bab_33"
+                android:title="@string/ar_im_33" />
+        </menu>
+    </item>
+
+</menu>
